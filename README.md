@@ -32,5 +32,4 @@ I do web development. I usually work with Drupal projects, but I also work with 
 ### My Latest Video Tutorials
 
 [![Black Widow](https://img.youtube.com/vi/hRY5_VwvD_g/mqdefault.jpg)](https://www.youtube.com/watch?v=hRY5_VwvD_g)
-[![Black Widow](https://img.youtube.com/vi/n13cgwUdoJw/mqdefault.jpg)](https://www.youtube.com/watch?v=n13cgwUdoJw)
 [![Black Widow](https://img.youtube.com/vi/a6gv9tyu7aQ/mqdefault.jpg)](https://www.youtube.com/watch?v=a6gv9tyu7aQ)
